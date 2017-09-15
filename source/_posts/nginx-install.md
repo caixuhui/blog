@@ -5,7 +5,7 @@ tags: [hexo, nginx]
 categories: Dances with Nginx
 ---
 ## 摘要
-> 1服务器上通常使用Apache或者Nginx进行代理或者负载均衡等功能，相比Apache，Nginx更加轻量，配置也比较简单，静态处理能力比较高。
+> 服务器上通常使用Apache或者Nginx进行代理或者负载均衡等功能，相比Apache，Nginx更加轻量，配置也比较简单，静态处理能力比较高。
 
 <!-- more -->
 
