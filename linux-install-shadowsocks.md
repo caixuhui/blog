@@ -1,13 +1,4 @@
----
-title: Centos7 安装 Shadowsocks服务器
-date: 2017-09-12 08:39:07
-tags: [centos, shadowsocks]
-categories: Hello Linux
----
-## 摘要
-> 最近ss的河蟹好像很严重，百度关键字啥都出不来了，刚好之前搭了一下ss服务器可以愉快地墙内墙外跑，因此把教程分享出来。
-
-<!-- more -->
+## Centos7 安装 Shadowsocks服务器
 
 * 本文环境Centos7.3
 

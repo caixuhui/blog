@@ -1,13 +1,4 @@
----
-title: Nginx设置google fonts 反向代理
-date: 2017-09-11 02:32:21
-tags: [hexo, nginx]
-categories: Dances with Nginx
----
-## 摘要
-> google已经远离了china，使用`fonts.googleapis.com`会迟迟加载不下来，360CDN原本可以解决这个问题，但是经常抽风访问不了，因此使用自己的服务器搭建了fonts的代理，加快了网站获取fonts的速度。
-
-<!-- more -->
+## Nginx设置google fonts 反向代理
 
 * 本文已经预先安装好了`Nginx-1.13.5`
 * Nginx安装目录为`/usr/local/nginx`
